@@ -37,7 +37,7 @@
     "window-size": "^1.1.0"
   },
   "bin": {
-    "chatdown": "./bin/chatdown"
+    "chatdown": "./bin/chatdown.js"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
